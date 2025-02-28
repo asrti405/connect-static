@@ -1,3 +1,4 @@
+HONOR 90 LITE
 # static caching gzipping file server middleware for connect
 
 When you create the middleware, it will immediately scan the requested
